@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#logo{
+	width: 165px;
+	height: 58px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+}
+
+ul{
+	text-align: center;
+	font-size: 16px;
+	font-family: Helvetica;
+	color: #58595B;
+	margin-top: 60px;
+	margin-bottom: 60px;	
+}
+
+
+ul a{
+	margin-right: 10px;
+	margin-left: 10px;
+	text-decoration: none;	
+}
+
+.img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%
+}
